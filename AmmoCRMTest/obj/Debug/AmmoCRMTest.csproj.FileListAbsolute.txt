@@ -1,0 +1,8 @@
+D:\VS2017\AmmoCRMTest\AmmoCRMTest\bin\Debug\AmmoCRMTest.pdb
+D:\VS2017\AmmoCRMTest\AmmoCRMTest\obj\Debug\AmmoCRMTest.csproj.CoreCompileInputs.cache
+D:\VS2017\AmmoCRMTest\AmmoCRMTest\obj\Debug\AmmoCRMTest.pdb
+D:\VS2017\AmmoCRMTest\AmmoCRMTest\bin\Debug\Newtonsoft.Json.dll
+D:\VS2017\AmmoCRMTest\AmmoCRMTest\bin\Debug\Newtonsoft.Json.xml
+D:\VS2017\AmmoCRMTest\AmmoCRMTest\bin\Debug\AmmoCRMTest.dll.config
+D:\VS2017\AmmoCRMTest\AmmoCRMTest\bin\Debug\AmmoCRMTest.dll
+D:\VS2017\AmmoCRMTest\AmmoCRMTest\obj\Debug\AmmoCRMTest.dll
